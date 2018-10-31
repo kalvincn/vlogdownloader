@@ -3,10 +3,13 @@ Easily to download videos from video blogs,supported tiktok, tumblr, facebook, t
 
 [https://www.vlogdownloader.com/][1]
 
+## Support List
+
+#### Tiktok
+ - http://vm.tiktok.com/3Wqdp/
 
 ## Change log
 
-## Support List
 
 
 
